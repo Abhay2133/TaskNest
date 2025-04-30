@@ -11,7 +11,7 @@ export default function Home() {
     if(token){
       router.push('/dashbord')
     }
-  })
+  },[])
 
   const handleStart = () => {
     router.push("/login");
