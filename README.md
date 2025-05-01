@@ -1,4 +1,4 @@
-# Task Manager App
+se# Task Manager App
 
 A full-stack task management application built with Next.js, MongoDB, Redux, and JWT authentication.
 
@@ -144,4 +144,4 @@ Made with ❤️ by [Your Name]
 ### ✅ 5. Share Repository Link
 
 Once pushed, copy the GitHub link like:
-
+https://github.com/Kakrote/TaskNest
