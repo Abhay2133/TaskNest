@@ -4,6 +4,25 @@ A full-stack task management application built with Next.js, MongoDB, Redux, and
 
 ---
 
+
+### 👤 Test Users
+
+You can use any of the following test accounts to log in:
+
+| Email                | Password   |
+|----------------------|------------|
+| user1@example.com    | password1  |
+| user2@example.com    | password2  |
+| user3@example.com    | password3  |
+| user4@example.com    | password4  |
+| user5@example.com    | password5  |
+| user6@example.com    | password6  |
+| user7@example.com    | password7  |
+| user8@example.com    | password8  |
+| user9@example.com    | password9  |
+| user10@example.com   | password10 |
+
+
 ## 🔧 Tech Stack
 
 - **Frontend:** Next.js (App Router), Redux Toolkit, TailwindCSS  
@@ -108,23 +127,6 @@ This will:
 - Delete all existing users and tasks
 - Create 10 test users
 - Each user gets 10 demo tasks (random `important` and `completed` flags)
-
-### 👤 Test Users
-
-You can use any of the following test accounts to log in:
-
-| Email                | Password   |
-|----------------------|------------|
-| user1@example.com    | password1  |
-| user2@example.com    | password2  |
-| user3@example.com    | password3  |
-| user4@example.com    | password4  |
-| user5@example.com    | password5  |
-| user6@example.com    | password6  |
-| user7@example.com    | password7  |
-| user8@example.com    | password8  |
-| user9@example.com    | password9  |
-| user10@example.com   | password10 |
 
 ### 📝 Script Location
 
