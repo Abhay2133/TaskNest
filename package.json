@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "seed": "node seed",
     "dev": "next dev --turbopack",
     "build": "next build",
+    "postbuild": "npm run seed",
     "start": "next start",
     "lint": "next lint"
   },
@@ -13,6 +15,7 @@
     "axios": "^1.9.0",
     "bcryptjs": "^3.0.2",
     "date-fns": "^4.1.0",
+    "dotenv": "^16.5.0",
     "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.21",
     "lucide-react": "^0.503.0",
